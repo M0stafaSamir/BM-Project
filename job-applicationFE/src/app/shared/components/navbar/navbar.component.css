@@ -1,0 +1,17 @@
+nav {
+  width: 95%;
+  right: 2.5%;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link.active {
+  color: #1c6f84;
+  font-weight: bold;
+}
+
+small {
+  font-size: 11px;
+}

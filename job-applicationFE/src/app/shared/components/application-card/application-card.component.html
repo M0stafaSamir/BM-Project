@@ -1,0 +1,18 @@
+<div class="card glassy-bg text-white">
+  <h5 class="card-header">{{ application.jobTitle }}</h5>
+  <div class="card-body">
+    <!-- <h5 class="card-title">{{application.}}</h5> -->
+    <p class="card-text mb-0 text-white-50">Cover Letter:</p>
+    <p class="card-text">{{ application.coverLetter }}</p>
+    <div class="d-flex justify-content-center gap-3 align-items-center">
+      <a
+        class="btn btn-primary mainBg border-0"
+        routerLink="/job-details/{{ application.jobId }}"
+        >Job Details</a
+      >
+      <button class="btn btn-danger" (click)="deleteApp(application.id)">
+        Remove
+      </button>
+    </div>
+  </div>
+</div>

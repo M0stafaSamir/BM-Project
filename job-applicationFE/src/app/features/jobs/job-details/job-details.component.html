@@ -1,0 +1,175 @@
+<main
+  id="job-details"
+  class="min-vh-100 bg-dark d-flex justify-content-center align-items-center"
+>
+  <div class="container py-5">
+    <div class="row justify-content-center">
+      <div class="col-lg-10 col-xl-8">
+        <!-- loader -->
+        <div *ngIf="isLoading" class="d-flex justify-content-center">
+          <app-loader></app-loader>
+        </div>
+        <!-- Main Job Card -->
+        <div class="card glassy-bg shadow-lg border-0 bg-dark-gradient mb-4">
+          <div class="card-body p-4 p-md-5">
+            <!-- Header Section -->
+            <div class="d-flex justify-content-between align-items-start mb-4">
+              <div>
+                <!-- Job Title -->
+                <h1 class="card-title text-primary fw-bold mb-2">
+                  {{ job.title }}
+                </h1>
+
+                <!-- Company and Location -->
+                <div class="d-flex align-items-center mb-3">
+                  <h5 class="card-subtitle text-white mb-0">
+                    <i class="fas fa-building me-2"></i>{{ job.company }}
+                  </h5>
+                  <span *ngIf="job.location" class="text-white-50 ms-3">
+                    <i class="fas fa-map-marker-alt me-1"></i>{{ job.location }}
+                  </span>
+                </div>
+              </div>
+
+              <!-- Salary Badge -->
+              <div
+                *ngIf="job.salary"
+                class="bg-success text-white rounded-pill px-3 py-1"
+              >
+                <span class="fw-bold">{{ job.salary | currency }}</span>
+              </div>
+            </div>
+
+            <!-- Meta Information -->
+            <div class="d-flex flex-wrap gap-3 mb-4">
+              <span class="badge bg-secondary bg-opacity-25 text-white">
+                <i class="far fa-clock me-1"></i>Posted
+                {{ job.postedAt | date }}
+              </span>
+              <span class="badge bg-success bg-opacity-25 text-white">
+                <i class="fas fa-users me-1"></i>{{ job.applied || 0 }} Applied
+              </span>
+            </div>
+
+            <!-- Description Section -->
+            <div class="mb-4">
+              <h5 class="text-white mb-3">
+                <i class="fas fa-align-left me-2"></i>Job Description
+              </h5>
+              <div class="text-white-50" [innerHTML]="job.description"></div>
+            </div>
+
+            <!-- Contact Information -->
+            <div class="bg-dark bg-opacity-50 p-3 rounded">
+              <h5 class="text-white mb-3">
+                <i class="fas fa-envelope me-2"></i>Contact Information
+              </h5>
+              <div class="d-flex align-items-center">
+                <i class="fas fa-at text-primary me-2 fs-5"></i>
+                <a [href]="'mailto:' + job.email" class="text-primary">{{
+                  job.email
+                }}</a>
+              </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="d-flex gap-3 mt-5">
+              <button
+                [disabled]="(job.applied ?? 0) > 2"
+                class="btn btn-primary btn-lg px-4"
+                (click)="openApplicationForm()"
+              >
+                <i class="fas fa-paper-plane me-2"></i
+                >{{
+                  (job.applied ?? 0) > 2 ? "Application Ended" : "Apply Now"
+                }}
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Application Form Modal -->
+  <div
+    class="modal formBg"
+    [class.show]="applicationForm"
+    [style.display]="applicationForm ? 'block' : 'none'"
+  >
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content bg-dark border border-secondary">
+        <div class="modal-header border-bottom border-secondary">
+          <h4 class="modal-title text-white">Apply for {{ job.title }}</h4>
+          <button
+            type="button"
+            class="btn-close btn-close-white"
+            (click)="applicationForm = false"
+          ></button>
+        </div>
+        <div class="modal-body">
+          <form [formGroup]="applyForm" (ngSubmit)="onSubmit()">
+            <!-- Cover Letter -->
+            <div class="mb-4">
+              <label class="form-label text-white">Cover Letter</label>
+              <textarea
+                class="form-control bg-dark text-white border border-secondary"
+                rows="6"
+                formControlName="coverLetter"
+                placeholder="Explain why you're a good fit for this position..."
+              ></textarea>
+              <div
+                class="text-danger mt-1"
+                *ngIf="
+                  applyForm.get('coverLetter')?.touched &&
+                  applyForm.get('coverLetter')?.errors
+                "
+              >
+                <div *ngIf="applyForm.get('coverLetter')?.errors?.['required']">
+                  Cover letter is required.
+                </div>
+                <div
+                  *ngIf="applyForm.get('coverLetter')?.errors?.['minlength']"
+                >
+                  Cover letter must be at least 20 characters.
+                </div>
+              </div>
+            </div>
+
+            <!-- Resume Upload -->
+            <div class="mb-4">
+              <label class="form-label text-white">Resume</label>
+              <div class="file-upload-wrapper">
+                <input
+                  type="file"
+                  class="form-control bg-dark text-white border border-secondary"
+                  (change)="onFileSelected($event)"
+                  accept=".pdf,.doc,.docx"
+                />
+                <small class="text-white-50"
+                  >PDF or Word documents only (Max 5MB)</small
+                >
+              </div>
+            </div>
+
+            <!-- Error Message -->
+            <div *ngIf="errorMessage" class="alert alert-danger">
+              {{ errorMessage }}
+            </div>
+
+            <!-- Submit Button -->
+            <div class="d-grid">
+              <button
+                type="submit"
+                class="btn btn-primary"
+                [disabled]="applyForm.invalid"
+              >
+                <i class="fas fa-paper-plane me-2"></i>Submit Application
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
