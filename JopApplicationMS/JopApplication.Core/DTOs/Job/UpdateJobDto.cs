@@ -11,6 +11,7 @@ namespace JopApplication.Core.DTOs.Job
     public class UpdateJobDto
     {
         [StringLength(100)]
+        [Required]
         public string Title { get; set; } = null!;
 
         public string? Description { get; set; }
@@ -27,6 +28,7 @@ namespace JopApplication.Core.DTOs.Job
 
 
         [StringLength(100)]
+        [Required]
         public string Company { get; set; } = null!;
     }
 }

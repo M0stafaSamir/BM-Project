@@ -23,8 +23,10 @@ import { LoaderComponent } from '../../../shared/components/loader/loader.compon
 })
 export class JobDetailsComponent implements OnInit {
   applyForm!: FormGroup;
+  jobForm!: FormGroup;
   jobId!: number;
   applicationForm: boolean = false;
+  jobFormIsOpened: boolean = false;
   errorMessage: string = '';
   resumeFile: File | null = null;
   job!: GetJob;
@@ -33,7 +35,7 @@ export class JobDetailsComponent implements OnInit {
   constructor(
     private route: ActivatedRoute,
     private jobService: JobService,
-    private authService: AuthService,
+    public authService: AuthService,
     private applicationService: ApplicationService,
     private fb: FormBuilder,
     private router: Router
@@ -42,6 +44,15 @@ export class JobDetailsComponent implements OnInit {
   ngOnInit() {
     this.applyForm = this.fb.group({
       coverLetter: ['', [Validators.required, Validators.minLength(20)]],
+    });
+
+    this.jobForm = this.fb.group({
+      title: ['', Validators.required],
+      description: [''],
+      company: ['', Validators.required],
+      salary: [''],
+      email: ['', [Validators.required, Validators.email]],
+      location: [''],
     });
 
     // Get job ID from route
@@ -59,6 +70,7 @@ export class JobDetailsComponent implements OnInit {
       next: (res: any) => {
         this.job = res.data;
         this.isLoading = false;
+
         console.log('Job:', this.job);
       },
       error: (err) => {
@@ -76,6 +88,27 @@ export class JobDetailsComponent implements OnInit {
     } else {
       this.router.navigate(['/login']);
     }
+  }
+
+  //admin updates job
+  openJobForm() {
+    this.jobFormIsOpened = true;
+    this.jobForm.patchValue(this.job);
+  }
+
+  updateJob() {
+    this.jobService.updateJob(this.jobForm.value, this.jobId).subscribe({
+      next: (res: any) => {
+        console.log('job updated', res);
+        alert('job updated successfully');
+        this.jobFormIsOpened = false;
+        this.job = res.data;
+      },
+      error: (err: any) => {
+        console.error('Error fetching job details', err);
+        alert('failed to update job');
+      },
+    });
   }
 
   // Handle file selection

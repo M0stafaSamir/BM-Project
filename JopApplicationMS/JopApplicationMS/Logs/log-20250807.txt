@@ -471,3 +471,403 @@
 [2025-08-07 10:23:48 INF] ✅ HTTP DELETE /api/application/deleteApplication/15 200 finished with 37 in {Elapsed} ms
 [2025-08-07 10:23:49 INF] ➡️ HTTP GET /api/application/myApplications started
 [2025-08-07 10:23:49 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 2 in {Elapsed} ms
+[2025-08-07 11:12:16 INF] Now listening on: https://localhost:7017
+[2025-08-07 11:12:16 INF] Now listening on: http://localhost:5186
+[2025-08-07 11:12:16 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-07 11:12:16 INF] Hosting environment: Development
+[2025-08-07 11:12:16 INF] Content root path: E:\BanqueMisrProject\BM-Project\JopApplicationMS\JopApplicationMS
+[2025-08-07 11:12:23 INF] ➡️ HTTP GET /api/Job/getAll started
+[2025-08-07 11:12:27 INF] ✅ HTTP GET /api/Job/getAll 200 finished with 3838 in {Elapsed} ms
+[2025-08-07 11:17:59 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-07 11:17:59 INF] ✅ HTTP POST /api/auth/login 200 finished with 440 in {Elapsed} ms
+[2025-08-07 12:05:12 INF] Now listening on: https://localhost:7017
+[2025-08-07 12:05:12 INF] Now listening on: http://localhost:5186
+[2025-08-07 12:05:12 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-07 12:05:12 INF] Hosting environment: Development
+[2025-08-07 12:05:12 INF] Content root path: E:\BanqueMisrProject\BM-Project\JopApplicationMS\JopApplicationMS
+[2025-08-07 12:12:59 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-07 12:12:59 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 12:13:08 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 9206 in {Elapsed} ms
+[2025-08-07 12:13:08 INF] ✅ HTTP GET /api/job/getAll 200 finished with 8892 in {Elapsed} ms
+[2025-08-07 12:13:08 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 12:13:08 INF] ✅ HTTP GET /api/job/getAll 200 finished with 193 in {Elapsed} ms
+[2025-08-07 12:13:10 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-07 12:13:10 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 15 in {Elapsed} ms
+[2025-08-07 12:13:11 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 12:13:11 INF] ✅ HTTP GET /api/job/getAll 200 finished with 34 in {Elapsed} ms
+[2025-08-07 12:13:13 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:13:14 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 146 in {Elapsed} ms
+[2025-08-07 12:14:01 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:14:01 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 13 in {Elapsed} ms
+[2025-08-07 12:14:10 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:14:10 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 12 in {Elapsed} ms
+[2025-08-07 12:14:16 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:14:16 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:14:36 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:14:36 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:14:48 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:14:48 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:14:50 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:14:50 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 15 in {Elapsed} ms
+[2025-08-07 12:15:46 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:15:46 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:16:31 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:16:31 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:16:45 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:16:45 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:16:48 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:16:48 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:18:02 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:18:02 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 13 in {Elapsed} ms
+[2025-08-07 12:18:41 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:18:41 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:18:57 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:18:57 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 11 in {Elapsed} ms
+[2025-08-07 12:19:32 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:19:32 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 13 in {Elapsed} ms
+[2025-08-07 12:19:38 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:19:38 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:21:40 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:21:40 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 14 in {Elapsed} ms
+[2025-08-07 12:23:09 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:23:09 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:25:34 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:25:34 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 15 in {Elapsed} ms
+[2025-08-07 12:25:36 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:25:36 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:25:41 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:25:41 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:25:42 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:25:42 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:25:47 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:25:47 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 15 in {Elapsed} ms
+[2025-08-07 12:26:05 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:26:05 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 11 in {Elapsed} ms
+[2025-08-07 12:26:50 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:26:50 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 19 in {Elapsed} ms
+[2025-08-07 12:26:56 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:26:56 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 14 in {Elapsed} ms
+[2025-08-07 12:26:58 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:26:58 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:27:03 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:27:03 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:28:13 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:28:13 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 14 in {Elapsed} ms
+[2025-08-07 12:28:22 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:28:22 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 13 in {Elapsed} ms
+[2025-08-07 12:28:38 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:28:38 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:29:03 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:03 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:29:04 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:04 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:29:08 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:08 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:29:23 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:23 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:29:26 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:26 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:29:31 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:31 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:29:37 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:37 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:29:37 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:29:37 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:30:19 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:30:19 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:30:19 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:30:19 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:30:55 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:30:55 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:30:57 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:30:57 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:30:59 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:30:59 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:31:00 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:31:00 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:31:05 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:31:05 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:31:06 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:31:06 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:31:50 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:31:50 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 19 in {Elapsed} ms
+[2025-08-07 12:31:54 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:31:54 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:32:03 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:32:03 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:32:06 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:32:06 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:32:09 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:32:09 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:32:13 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:32:13 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:32:50 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:32:50 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:32:53 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:32:53 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 11 in {Elapsed} ms
+[2025-08-07 12:32:59 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:32:59 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:33:07 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:33:07 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:33:10 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:33:10 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 10 in {Elapsed} ms
+[2025-08-07 12:33:13 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:33:13 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:33:33 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:33:33 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:33:36 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:33:36 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:36:31 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:36:31 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:37:12 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:37:12 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:38:30 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:38:30 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:38:31 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:38:31 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:38:47 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:38:47 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:39:33 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:39:33 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 28 in {Elapsed} ms
+[2025-08-07 12:39:47 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:39:47 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:39:48 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:39:48 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:39:50 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:39:50 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:40:02 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:40:02 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:40:45 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:40:45 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:43:37 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-07 12:43:37 INF] ✅ HTTP POST /api/auth/login 400 finished with 492 in {Elapsed} ms
+[2025-08-07 12:43:39 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-07 12:43:39 INF] ✅ HTTP POST /api/auth/login 200 finished with 250 in {Elapsed} ms
+[2025-08-07 12:43:41 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 12:43:41 INF] ✅ HTTP GET /api/job/getAll 200 finished with 23 in {Elapsed} ms
+[2025-08-07 12:43:42 INF] ➡️ HTTP GET /api/job/getById/7 started
+[2025-08-07 12:43:42 INF] ✅ HTTP GET /api/job/getById/7 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:43:53 INF] ➡️ HTTP POST /api/application/apply started
+[2025-08-07 12:43:53 INF] ✅ HTTP POST /api/application/apply 200 finished with 504 in {Elapsed} ms
+[2025-08-07 12:43:53 INF] ➡️ HTTP GET /api/job/getById/7 started
+[2025-08-07 12:43:53 INF] ✅ HTTP GET /api/job/getById/7 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:43:58 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-07 12:43:58 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 33 in {Elapsed} ms
+[2025-08-07 12:44:00 INF] ➡️ HTTP DELETE /api/application/deleteApplication/16 started
+[2025-08-07 12:44:00 INF] ✅ HTTP DELETE /api/application/deleteApplication/16 200 finished with 131 in {Elapsed} ms
+[2025-08-07 12:44:00 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-07 12:44:00 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:44:36 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 12:44:36 INF] ✅ HTTP GET /api/job/getAll 200 finished with 34 in {Elapsed} ms
+[2025-08-07 12:44:38 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:44:38 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:47:05 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 12:47:05 INF] ✅ HTTP GET /api/job/getAll 200 finished with 29 in {Elapsed} ms
+[2025-08-07 12:47:06 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 12:47:06 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:47:17 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-07 12:47:17 INF] ✅ HTTP POST /api/auth/login 200 finished with 208 in {Elapsed} ms
+[2025-08-07 12:47:20 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 12:47:20 INF] ✅ HTTP GET /api/job/getAll 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:47:30 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:47:30 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:48:31 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:48:31 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:48:39 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:48:39 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:49:07 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:49:07 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:49:23 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:49:23 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 11 in {Elapsed} ms
+[2025-08-07 12:53:43 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:53:43 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:53:50 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:53:50 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 12:53:59 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:53:59 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:54:04 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:54:04 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 12:54:33 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:54:33 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:54:37 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:54:37 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:54:46 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:54:46 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:54:56 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:54:56 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:55:04 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:55:04 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:55:15 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:55:15 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 11 in {Elapsed} ms
+[2025-08-07 12:55:52 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:55:52 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 9 in {Elapsed} ms
+[2025-08-07 12:55:54 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:55:54 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:55:57 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:55:57 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 12:56:46 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:56:46 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 12:56:48 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:56:48 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 12:56:54 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:56:54 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:57:00 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:57:00 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:57:30 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:57:30 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 7 in {Elapsed} ms
+[2025-08-07 12:57:31 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:57:31 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 12:57:49 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:57:49 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 8 in {Elapsed} ms
+[2025-08-07 12:59:52 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 12:59:52 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 9 in {Elapsed} ms
+[2025-08-07 13:00:11 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:00:11 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 14 in {Elapsed} ms
+[2025-08-07 13:00:18 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:00:18 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:00:19 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:00:19 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:02:44 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:02:44 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:02:51 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:02:51 INF] Updated job with ID 14 with details: {"Title":"return","Description":"string","Email":"user@example.com","Location":"string","Salary":10000,"Company":"string","$type":"UpdateJobDto"}
+[2025-08-07 13:02:51 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 241 in {Elapsed} ms
+[2025-08-07 13:02:59 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:02:59 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 8 in {Elapsed} ms
+[2025-08-07 13:03:19 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:19 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:03:25 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:25 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:03:27 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:27 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:03:39 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:39 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:03:42 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:42 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:03:46 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:46 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:03:50 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:50 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:03:55 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:03:55 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:04:00 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:00 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:04:03 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:03 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:04:08 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:08 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:04:15 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:15 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:04:17 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:17 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:04:20 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:20 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 8 in {Elapsed} ms
+[2025-08-07 13:04:22 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:22 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:04:24 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:24 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 7 in {Elapsed} ms
+[2025-08-07 13:04:27 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:27 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 7 in {Elapsed} ms
+[2025-08-07 13:04:39 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:39 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:04:49 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:04:50 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:06:57 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:06:57 INF] Updated job with ID 14 with details: {"Title":"new job","Description":"string","Email":"user@example.com","Location":"string","Salary":10000,"Company":"string","$type":"UpdateJobDto"}
+[2025-08-07 13:06:57 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 36 in {Elapsed} ms
+[2025-08-07 13:07:08 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:07:08 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 11 in {Elapsed} ms
+[2025-08-07 13:07:15 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:07:15 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 23 in {Elapsed} ms
+[2025-08-07 13:07:16 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:07:16 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 10 in {Elapsed} ms
+[2025-08-07 13:07:21 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:07:21 INF] Updated job with ID 14 with details: {"Title":"new job2","Description":"string","Email":"user@example.com","Location":"string","Salary":10000,"Company":"string","$type":"UpdateJobDto"}
+[2025-08-07 13:07:21 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 29 in {Elapsed} ms
+[2025-08-07 13:08:35 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:08:35 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:08:41 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:08:41 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 7 in {Elapsed} ms
+[2025-08-07 13:16:45 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:16:45 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 3 in {Elapsed} ms
+[2025-08-07 13:16:55 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:16:55 INF] Updated job with ID 14 with details: {"Title":"new job","Description":"string","Email":"user@example.com","Location":"string","Salary":10000,"Company":"string","$type":"UpdateJobDto"}
+[2025-08-07 13:16:55 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 15 in {Elapsed} ms
+[2025-08-07 13:18:20 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:18:20 INF] Updated job with ID 14 with details: {"Title":"","Description":"string","Email":"user@example.com","Location":"string","Salary":10000,"Company":"string","$type":"UpdateJobDto"}
+[2025-08-07 13:18:20 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 13 in {Elapsed} ms
+[2025-08-07 13:18:29 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:18:29 INF] Updated job with ID 14 with details: {"Title":"gfgfgf","Description":"string","Email":"user@example.com","Location":"string","Salary":10000,"Company":"string","$type":"UpdateJobDto"}
+[2025-08-07 13:18:29 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 11 in {Elapsed} ms
+[2025-08-07 13:18:51 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:18:51 INF] Updated job with ID 14 with details: {"Title":"","Description":"string","Email":"user@example.com","Location":"","Salary":10000,"Company":"","$type":"UpdateJobDto"}
+[2025-08-07 13:18:51 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 9 in {Elapsed} ms
+[2025-08-07 13:19:41 INF] Now listening on: https://localhost:7017
+[2025-08-07 13:19:41 INF] Now listening on: http://localhost:5186
+[2025-08-07 13:19:41 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-07 13:19:41 INF] Hosting environment: Development
+[2025-08-07 13:19:41 INF] Content root path: E:\BanqueMisrProject\BM-Project\JopApplicationMS\JopApplicationMS
+[2025-08-07 13:19:46 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:19:47 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 1576 in {Elapsed} ms
+[2025-08-07 13:20:09 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:20:10 INF] Updated job with ID 14 with details: {"Title":"fornt end dev","Description":"string","Email":"user@example.com","Location":"giza","Salary":10000,"Company":"abc","$type":"UpdateJobDto"}
+[2025-08-07 13:20:10 INF] ✅ HTTP PUT /api/job/update/14 200 finished with 147 in {Elapsed} ms
+[2025-08-07 13:20:17 INF] ➡️ HTTP PUT /api/job/update/14 started
+[2025-08-07 13:20:17 INF] ✅ HTTP PUT /api/job/update/14 400 finished with 7 in {Elapsed} ms
+[2025-08-07 13:24:58 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:24:58 INF] ✅ HTTP GET /api/job/getAll 200 finished with 103 in {Elapsed} ms
+[2025-08-07 13:25:38 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:25:38 INF] ✅ HTTP GET /api/job/getAll 200 finished with 10 in {Elapsed} ms
+[2025-08-07 13:25:41 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:25:41 INF] ✅ HTTP GET /api/job/getAll 200 finished with 9 in {Elapsed} ms
+[2025-08-07 13:25:44 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:25:44 INF] ✅ HTTP GET /api/job/getAll 200 finished with 10 in {Elapsed} ms
+[2025-08-07 13:25:50 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:25:50 INF] ✅ HTTP GET /api/job/getAll 200 finished with 10 in {Elapsed} ms
+[2025-08-07 13:25:54 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:25:54 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:26:00 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:00 INF] ✅ HTTP GET /api/job/getAll 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:26:05 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:05 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:26:08 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:08 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:26:09 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:09 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:26:11 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:11 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:26:14 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:14 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:26:17 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:17 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:26:24 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:26:25 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 6 in {Elapsed} ms
+[2025-08-07 13:26:31 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:26:31 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:26:32 INF] ➡️ HTTP GET /api/job/getById/14 started
+[2025-08-07 13:26:32 INF] ✅ HTTP GET /api/job/getById/14 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:26:33 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:26:33 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:26:35 INF] ➡️ HTTP GET /api/job/getById/4 started
+[2025-08-07 13:26:35 INF] ✅ HTTP GET /api/job/getById/4 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:26:49 INF] ➡️ HTTP GET /api/job/getById/4 started
+[2025-08-07 13:26:49 INF] ✅ HTTP GET /api/job/getById/4 200 finished with 3 in {Elapsed} ms
+[2025-08-07 13:26:55 INF] ➡️ HTTP GET /api/job/getById/4 started
+[2025-08-07 13:26:55 INF] ✅ HTTP GET /api/job/getById/4 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:28:24 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:28:24 INF] ✅ HTTP GET /api/job/getAll 200 finished with 8 in {Elapsed} ms
+[2025-08-07 13:28:26 INF] ➡️ HTTP GET /api/job/getById/7 started
+[2025-08-07 13:28:26 INF] ✅ HTTP GET /api/job/getById/7 200 finished with 5 in {Elapsed} ms
+[2025-08-07 13:28:34 INF] ➡️ HTTP PUT /api/job/update/7 started
+[2025-08-07 13:28:34 INF] ✅ HTTP PUT /api/job/update/7 400 finished with 2 in {Elapsed} ms
+[2025-08-07 13:28:51 INF] ➡️ HTTP PUT /api/job/update/7 started
+[2025-08-07 13:28:51 INF] ✅ HTTP PUT /api/job/update/7 400 finished with 2 in {Elapsed} ms
+[2025-08-07 13:29:12 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:29:12 INF] ✅ HTTP GET /api/job/getAll 200 finished with 10 in {Elapsed} ms
+[2025-08-07 13:29:15 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-07 13:29:15 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-07 13:29:50 INF] ➡️ HTTP PUT /api/job/update/2 started
+[2025-08-07 13:29:50 INF] Updated job with ID 2 with details: {"Title":"junior  Full-Stack Developer","Description":"1+ Years in Development Position","Email":"CompanyA@gmail.com","Location":"District 5, Cairo","Salary":15000,"Company":"Company A","$type":"UpdateJobDto"}
+[2025-08-07 13:29:50 INF] ✅ HTTP PUT /api/job/update/2 200 finished with 18 in {Elapsed} ms
+[2025-08-07 13:30:30 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-07 13:30:30 INF] ✅ HTTP GET /api/job/getAll 200 finished with 10 in {Elapsed} ms

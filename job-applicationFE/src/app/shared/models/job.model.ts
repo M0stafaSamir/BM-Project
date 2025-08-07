@@ -20,3 +20,11 @@ export interface createJob {
   postedAt: Date;
   createdById: string;
 }
+export interface updateJob {
+  title: string;
+  description?: string;
+  location?: string;
+  company: string;
+  salary?: number;
+  email: string;
+}

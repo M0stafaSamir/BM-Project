@@ -14,6 +14,7 @@
             <th class="bg-secondary" scope="col">Company</th>
             <th class="bg-secondary" scope="col">Posted At</th>
             <th class="bg-secondary" scope="col">See Applications</th>
+            <th class="bg-secondary" scope="col">job Details</th>
             <!-- <th class="bg-secondary" scope="col">Remove</th> -->
           </tr>
         </thead>
@@ -31,11 +32,11 @@
                 Applications <i class="fa-solid fa-eye"></i>
               </a>
             </td>
-            <!-- <td>
-              <button class="btn btn-danger">
-                <i class="fa-solid fa-x"></i>
-              </button>
-            </td> -->
+            <td>
+              <a class="btn btn-primary" routerLink="/job-details/{{ job.id }}">
+                Go 
+              </a>
+            </td>
           </tr>
         </tbody>
       </table>

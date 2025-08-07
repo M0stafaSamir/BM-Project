@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from './environment';
-import { createJob } from '../../shared/models/job.model';
+import { createJob, updateJob } from '../../shared/models/job.model';
 
 @Injectable({
   providedIn: 'root',
@@ -19,5 +19,7 @@ export class JobService {
   createJob(jobData: createJob) {
     return this.httpClient.post(`${this.apiUrl}/create`, jobData);
   }
-
+  updateJob(jobData: any, id: number) {
+    return this.httpClient.put(`${this.apiUrl}/update/${id}`, jobData);
+  }
 }

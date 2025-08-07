@@ -72,9 +72,9 @@
               </div>
             </div>
 
-            <!-- Action Buttons -->
             <div class="d-flex gap-3 mt-5">
               <button
+                *ngIf="authService.getUserRole() == 'User'"
                 [disabled]="(job.applied ?? 0) > 2"
                 class="btn btn-primary btn-lg px-4"
                 (click)="openApplicationForm()"
@@ -83,6 +83,13 @@
                 >{{
                   (job.applied ?? 0) > 2 ? "Application Ended" : "Apply Now"
                 }}
+              </button>
+              <button
+                class="btn btn-warning btn-lg px-4"
+                *ngIf="authService.getUserRole() == 'Admin'"
+                (click)="openJobForm()"
+              >
+                Update Job
               </button>
             </div>
           </div>
@@ -173,3 +180,59 @@
     </div>
   </div>
 </main>
+
+<!-- Job Form -->
+<div class="modal fade show d-block" tabindex="-1" *ngIf="jobFormIsOpened">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content shadow-lg">
+      <div class="modal-header bg-primary text-white">
+        <h5 class="modal-title">Update Job</h5>
+        <button
+          type="button"
+          (click)="jobFormIsOpened = false"
+          class="btn-close btn-close-white"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body bg-dark">
+        <form [formGroup]="jobForm" (ngSubmit)="updateJob()">
+          <div class="mb-3">
+            <label class="form-label">Title</label>
+            <input type="text" class="form-control" formControlName="title" />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Description</label>
+            <textarea
+              class="form-control"
+              formControlName="description"
+            ></textarea>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Location</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="location"
+            />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Company</label>
+            <input type="text" class="form-control" formControlName="company" />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Salary</label>
+            <input
+              type="number"
+              class="form-control"
+              formControlName="salary"
+            />
+          </div>
+          <button type="submit" class="btn btn-success w-100">
+            Save Changes
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal-backdrop fade show" *ngIf="jobFormIsOpened"></div>

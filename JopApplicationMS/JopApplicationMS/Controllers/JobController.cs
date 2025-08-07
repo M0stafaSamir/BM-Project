@@ -60,7 +60,7 @@ namespace JopApplicationMS.API.Controllers
             return Ok(ApiResponse<List<GetJobDto>>.SuccessResponse(jobs, "Jobs Retrieved Successfully"));
 
         }
-        [HttpPut("{id}")]
+        [HttpPut("update/{id}")]
         public async Task<IActionResult> UpdateJob([FromBody] UpdateJobDto jobDto, int id)
         {
             if (jobDto == null)
