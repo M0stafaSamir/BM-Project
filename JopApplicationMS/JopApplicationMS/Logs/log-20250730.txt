@@ -1,0 +1,968 @@
+[2025-07-30 00:19:41 INF] Now listening on: https://localhost:7017
+[2025-07-30 00:19:41 INF] Now listening on: http://localhost:5186
+[2025-07-30 00:19:42 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 00:19:42 INF] Hosting environment: Development
+[2025-07-30 00:19:42 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 00:20:13 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:20:13 INF] ✅ HTTP POST /api/Job finished with 400 in 122 ms
+[2025-07-30 00:23:34 INF] Now listening on: https://localhost:7017
+[2025-07-30 00:23:34 INF] Now listening on: http://localhost:5186
+[2025-07-30 00:23:34 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 00:23:34 INF] Hosting environment: Development
+[2025-07-30 00:23:34 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 00:24:00 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:24:00 INF] ✅ HTTP POST /api/Job finished with 400 in 63 ms
+[2025-07-30 00:27:24 INF] Now listening on: https://localhost:7017
+[2025-07-30 00:27:24 INF] Now listening on: http://localhost:5186
+[2025-07-30 00:27:24 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 00:27:24 INF] Hosting environment: Development
+[2025-07-30 00:27:24 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 00:27:51 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:27:51 INF] ✅ HTTP POST /api/Job finished with 400 in 58 ms
+[2025-07-30 00:28:39 INF] Now listening on: https://localhost:7017
+[2025-07-30 00:28:39 INF] Now listening on: http://localhost:5186
+[2025-07-30 00:28:39 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 00:28:39 INF] Hosting environment: Development
+[2025-07-30 00:28:39 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 00:29:04 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:29:04 INF] ✅ HTTP POST /api/Job finished with 400 in 54 ms
+[2025-07-30 00:31:13 INF] Now listening on: https://localhost:7017
+[2025-07-30 00:31:13 INF] Now listening on: http://localhost:5186
+[2025-07-30 00:31:13 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 00:31:13 INF] Hosting environment: Development
+[2025-07-30 00:31:13 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 00:31:27 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:31:27 INF] ✅ HTTP POST /api/Job finished with 400 in 53 ms
+[2025-07-30 00:31:42 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:31:42 INF] ✅ HTTP POST /api/Job finished with 400 in 3 ms
+[2025-07-30 00:33:40 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:33:42 INF] ✅ HTTP POST /api/Job finished with 400 in 2163 ms
+[2025-07-30 00:34:01 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:34:01 INF] ✅ HTTP POST /api/Job finished with 400 in 5 ms
+[2025-07-30 00:34:34 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:34:34 INF] ✅ HTTP POST /api/Job finished with 400 in 4 ms
+[2025-07-30 00:34:56 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:34:59 INF] ✅ HTTP POST /api/Job finished with 200 in 2686 ms
+[2025-07-30 00:53:07 INF] Now listening on: https://localhost:7017
+[2025-07-30 00:53:07 INF] Now listening on: http://localhost:5186
+[2025-07-30 00:53:07 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 00:53:07 INF] Hosting environment: Development
+[2025-07-30 00:53:07 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 00:53:37 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 00:53:38 INF] ✅ HTTP POST /api/Job finished with 200 in 977 ms
+[2025-07-30 01:09:27 INF] Now listening on: https://localhost:7017
+[2025-07-30 01:09:27 INF] Now listening on: http://localhost:5186
+[2025-07-30 01:09:27 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 01:09:27 INF] Hosting environment: Development
+[2025-07-30 01:09:27 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 01:09:57 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 01:09:58 ERR] Failed executing DbCommand (12ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Applied], [s].[Company], [s].[CreatedById], [s].[Description], [s].[Email], [s].[Location], [s].[PostedAt], [s].[Salary], [s].[Title], [s].[Id0], [s].[AccessFailedCount], [s].[ConcurrencyStamp], [s].[Email0], [s].[EmailConfirmed], [s].[LockoutEnabled], [s].[LockoutEnd], [s].[NormalizedEmail], [s].[NormalizedUserName], [s].[PasswordHash], [s].[PhoneNumber], [s].[PhoneNumberConfirmed], [s].[SecurityStamp], [s].[TwoFactorEnabled], [s].[UserName], [a0].[Id], [a0].[AppliedAt], [a0].[CoverLetter], [a0].[JobId], [a0].[Resume], [a0].[UserId]
+FROM (
+    SELECT TOP(1) [j].[Id], [j].[Applied], [j].[Company], [j].[CreatedById], [j].[Description], [j].[Email], [j].[Location], [j].[PostedAt], [j].[Salary], [j].[Title], [a].[Id] AS [Id0], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email] AS [Email0], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+    FROM [Job] AS [j]
+    INNER JOIN [ApplicationUser] AS [a] ON [j].[CreatedById] = [a].[Id]
+    WHERE [j].[Id] = @__id_0
+) AS [s]
+LEFT JOIN [Application] AS [a0] ON [s].[Id] = [a0].[JobId]
+ORDER BY [s].[Id], [s].[Id0]
+[2025-07-30 01:09:58 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:dd17d21b-c225-4ec2-89ad-9fdecd8550d6
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:dd17d21b-c225-4ec2-89ad-9fdecd8550d6
+Error Number:208,State:1,Class:16
+[2025-07-30 01:09:58 ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetByIdAsync(Int32 id) in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 49
+   at JopApplication.Infrastructure.Repositories.JobRepository.AddAsync(Job entity) in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 27
+   at JopApplication.Services.Handlers.CreateJobHandler.Handle(CreateJobCommand request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\CreateJobHandler.cs:line 31
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.CreateJob(CreateJobDto jobDto) in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:dd17d21b-c225-4ec2-89ad-9fdecd8550d6
+Error Number:208,State:1,Class:16
+[2025-07-30 01:12:16 INF] Now listening on: https://localhost:7017
+[2025-07-30 01:12:16 INF] Now listening on: http://localhost:5186
+[2025-07-30 01:12:16 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 01:12:16 INF] Hosting environment: Development
+[2025-07-30 01:12:16 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 01:12:28 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 01:12:29 ERR] Failed executing DbCommand (5ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Applied], [s].[Company], [s].[CreatedById], [s].[Description], [s].[Email], [s].[Location], [s].[PostedAt], [s].[Salary], [s].[Title], [s].[Id0], [s].[AccessFailedCount], [s].[ConcurrencyStamp], [s].[Email0], [s].[EmailConfirmed], [s].[LockoutEnabled], [s].[LockoutEnd], [s].[NormalizedEmail], [s].[NormalizedUserName], [s].[PasswordHash], [s].[PhoneNumber], [s].[PhoneNumberConfirmed], [s].[SecurityStamp], [s].[TwoFactorEnabled], [s].[UserName], [a0].[Id], [a0].[AppliedAt], [a0].[CoverLetter], [a0].[JobId], [a0].[Resume], [a0].[UserId]
+FROM (
+    SELECT TOP(1) [j].[Id], [j].[Applied], [j].[Company], [j].[CreatedById], [j].[Description], [j].[Email], [j].[Location], [j].[PostedAt], [j].[Salary], [j].[Title], [a].[Id] AS [Id0], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email] AS [Email0], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+    FROM [Job] AS [j]
+    INNER JOIN [ApplicationUser] AS [a] ON [j].[CreatedById] = [a].[Id]
+    WHERE [j].[Id] = @__id_0
+) AS [s]
+LEFT JOIN [Application] AS [a0] ON [s].[Id] = [a0].[JobId]
+ORDER BY [s].[Id], [s].[Id0]
+[2025-07-30 01:12:29 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:2301c6a0-cf09-4d86-811e-2a83a3febffa
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:2301c6a0-cf09-4d86-811e-2a83a3febffa
+Error Number:208,State:1,Class:16
+[2025-07-30 01:12:29 ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetByIdAsync(Int32 id) in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 49
+   at JopApplication.Infrastructure.Repositories.JobRepository.AddAsync(Job entity) in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 27
+   at JopApplication.Services.Handlers.CreateJobHandler.Handle(CreateJobCommand request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\CreateJobHandler.cs:line 31
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.CreateJob(CreateJobDto jobDto) in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:2301c6a0-cf09-4d86-811e-2a83a3febffa
+Error Number:208,State:1,Class:16
+[2025-07-30 01:17:51 INF] Now listening on: https://localhost:7017
+[2025-07-30 01:17:51 INF] Now listening on: http://localhost:5186
+[2025-07-30 01:17:51 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 01:17:51 INF] Hosting environment: Development
+[2025-07-30 01:17:51 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 01:18:15 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 01:18:16 ERR] Failed executing DbCommand (10ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Applied], [s].[Company], [s].[CreatedById], [s].[Description], [s].[Email], [s].[Location], [s].[PostedAt], [s].[Salary], [s].[Title], [s].[Id0], [s].[AccessFailedCount], [s].[ConcurrencyStamp], [s].[Email0], [s].[EmailConfirmed], [s].[LockoutEnabled], [s].[LockoutEnd], [s].[NormalizedEmail], [s].[NormalizedUserName], [s].[PasswordHash], [s].[PhoneNumber], [s].[PhoneNumberConfirmed], [s].[SecurityStamp], [s].[TwoFactorEnabled], [s].[UserName], [a0].[Id], [a0].[AppliedAt], [a0].[CoverLetter], [a0].[JobId], [a0].[Resume], [a0].[UserId]
+FROM (
+    SELECT TOP(1) [j].[Id], [j].[Applied], [j].[Company], [j].[CreatedById], [j].[Description], [j].[Email], [j].[Location], [j].[PostedAt], [j].[Salary], [j].[Title], [a].[Id] AS [Id0], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email] AS [Email0], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+    FROM [Job] AS [j]
+    INNER JOIN [ApplicationUser] AS [a] ON [j].[CreatedById] = [a].[Id]
+    WHERE [j].[Id] = @__id_0
+) AS [s]
+LEFT JOIN [Application] AS [a0] ON [s].[Id] = [a0].[JobId]
+ORDER BY [s].[Id], [s].[Id0]
+[2025-07-30 01:18:16 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:2173a8b4-5c8a-4c07-90ea-bd962ac220ae
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:2173a8b4-5c8a-4c07-90ea-bd962ac220ae
+Error Number:208,State:1,Class:16
+[2025-07-30 01:18:16 ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetByIdAsync(Int32 id) in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 49
+   at JopApplication.Infrastructure.Repositories.JobRepository.AddAsync(Job entity) in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 27
+   at JopApplication.Services.Handlers.CreateJobHandler.Handle(CreateJobCommand request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\CreateJobHandler.cs:line 31
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.CreateJob(CreateJobDto jobDto) in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:2173a8b4-5c8a-4c07-90ea-bd962ac220ae
+Error Number:208,State:1,Class:16
+[2025-07-30 01:19:11 INF] Now listening on: https://localhost:7017
+[2025-07-30 01:19:11 INF] Now listening on: http://localhost:5186
+[2025-07-30 01:19:11 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 01:19:11 INF] Hosting environment: Development
+[2025-07-30 01:19:11 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 01:19:29 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 01:19:30 INF] ✅ HTTP POST /api/Job finished with 200 in 1381 ms
+[2025-07-30 01:22:03 INF] Now listening on: https://localhost:7017
+[2025-07-30 01:22:03 INF] Now listening on: http://localhost:5186
+[2025-07-30 01:22:03 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 01:22:03 INF] Hosting environment: Development
+[2025-07-30 01:22:03 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 01:22:22 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 01:22:23 INF] ✅ HTTP POST /api/Job finished with 200 in 1236 ms
+[2025-07-30 01:22:43 INF] Now listening on: https://localhost:7017
+[2025-07-30 01:22:43 INF] Now listening on: http://localhost:5186
+[2025-07-30 01:22:43 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 01:22:43 INF] Hosting environment: Development
+[2025-07-30 01:22:43 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 01:22:58 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 01:22:58 ERR] An unhandled exception has occurred while executing the request.
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CreateJobDto -> Job
+JopApplication.Core.DTOs.Job.CreateJobDto -> JopApplication.Core.Models.Job
+   at lambda_method12(Closure, Object, Job, ResolutionContext)
+   at JopApplication.Services.Handlers.CreateJobHandler.Handle(CreateJobCommand request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\CreateJobHandler.cs:line 30
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.CreateJob(CreateJobDto jobDto) in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 01:23:54 INF] Now listening on: https://localhost:7017
+[2025-07-30 01:23:54 INF] Now listening on: http://localhost:5186
+[2025-07-30 01:23:55 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 01:23:55 INF] Hosting environment: Development
+[2025-07-30 01:23:55 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 01:24:23 INF] ➡️ HTTP POST /api/Job started
+[2025-07-30 01:24:24 INF] ✅ HTTP POST /api/Job finished with 200 in 1222 ms
+[2025-07-30 08:25:59 ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+[2025-07-30 08:27:41 ERR] Failed executing DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [Fname] nvarchar(max) NOT NULL,
+    [Lname] nvarchar(max) NOT NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+[2025-07-30 08:29:46 ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+[2025-07-30 09:30:53 INF] Now listening on: https://localhost:7017
+[2025-07-30 09:30:53 INF] Now listening on: http://localhost:5186
+[2025-07-30 09:30:53 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 09:30:53 INF] Hosting environment: Development
+[2025-07-30 09:30:53 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 09:31:33 INF] ➡️ HTTP POST /api/Auth/register started
+[2025-07-30 09:31:33 ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'JopApplication.Core.Interfaces.Services.IAuthService' while attempting to activate 'JopApplicationMS.API.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 09:34:02 INF] Now listening on: https://localhost:7017
+[2025-07-30 09:34:02 INF] Now listening on: http://localhost:5186
+[2025-07-30 09:34:02 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 09:34:02 INF] Hosting environment: Development
+[2025-07-30 09:34:02 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 09:34:43 INF] ➡️ HTTP POST /api/Auth/register started
+[2025-07-30 09:34:46 INF] ✅ HTTP POST /api/Auth/register finished with 200 in 2868 ms
+[2025-07-30 09:36:38 INF] Now listening on: https://localhost:7017
+[2025-07-30 09:36:38 INF] Now listening on: http://localhost:5186
+[2025-07-30 09:36:38 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 09:36:38 INF] Hosting environment: Development
+[2025-07-30 09:36:38 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 09:37:10 INF] ➡️ HTTP POST /api/Auth/register started
+[2025-07-30 09:37:10 INF] ✅ HTTP POST /api/Auth/register finished with 400 in 120 ms
+[2025-07-30 09:38:59 INF] ➡️ HTTP POST /api/Auth/register started
+[2025-07-30 09:38:59 INF] ✅ HTTP POST /api/Auth/register finished with 400 in 8 ms
+[2025-07-30 09:39:36 INF] ➡️ HTTP POST /api/Auth/login started
+[2025-07-30 09:39:37 INF] ✅ HTTP POST /api/Auth/login finished with 200 in 1025 ms
+[2025-07-30 09:39:44 INF] ➡️ HTTP POST /api/Auth/login started
+[2025-07-30 09:39:44 INF] ✅ HTTP POST /api/Auth/login finished with 400 in 127 ms
+[2025-07-30 09:40:28 INF] ➡️ HTTP POST /api/Auth/register started
+[2025-07-30 09:40:28 INF] ✅ HTTP POST /api/Auth/register finished with 200 in 18 ms
+[2025-07-30 09:41:00 INF] ➡️ HTTP POST /api/Auth/register started
+[2025-07-30 09:41:00 INF] ✅ HTTP POST /api/Auth/register finished with 200 in 6 ms
+[2025-07-30 09:45:44 INF] Now listening on: https://localhost:7017
+[2025-07-30 09:45:45 INF] Now listening on: http://localhost:5186
+[2025-07-30 09:45:45 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 09:45:45 INF] Hosting environment: Development
+[2025-07-30 09:45:45 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 09:45:53 INF] ➡️ HTTP POST /api/Auth/register started
+[2025-07-30 09:45:54 INF] ✅ HTTP POST /api/Auth/register finished with 400 in 944 ms
+[2025-07-30 10:25:27 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:25:27 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:25:27 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:25:27 INF] Hosting environment: Development
+[2025-07-30 10:25:27 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:25:35 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:25:37 INF] ✅ HTTP GET /api/Job finished with 200 in 1556 ms
+[2025-07-30 10:27:39 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:27:39 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:27:39 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:27:39 INF] Hosting environment: Development
+[2025-07-30 10:27:39 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:27:46 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:27:47 INF] ✅ HTTP GET /api/Job finished with 200 in 955 ms
+[2025-07-30 10:33:56 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:33:56 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:33:57 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:33:57 INF] Hosting environment: Development
+[2025-07-30 10:33:57 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:34:03 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:34:04 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+[2025-07-30 10:34:04 ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetAllAsync() in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 44
+   at JopApplication.Services.Handlers.GetAllJobsHandler.Handle(GetAllJobsQuery request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\GetAllJobsHandler.cs:line 25
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.GetAllJobs() in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 10:36:52 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:36:52 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:36:52 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:36:52 INF] Hosting environment: Development
+[2025-07-30 10:36:52 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:36:57 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:36:58 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+[2025-07-30 10:36:58 ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetAllAsync() in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 44
+   at JopApplication.Services.Handlers.GetAllJobsHandler.Handle(GetAllJobsQuery request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\GetAllJobsHandler.cs:line 25
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.GetAllJobs() in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 10:38:21 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:38:21 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:38:21 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:38:21 INF] Hosting environment: Development
+[2025-07-30 10:38:21 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:39:01 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:39:03 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+[2025-07-30 10:39:03 ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetAllAsync() in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 44
+   at JopApplication.Services.Handlers.GetAllJobsHandler.Handle(GetAllJobsQuery request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\GetAllJobsHandler.cs:line 25
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.GetAllJobs() in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 10:39:07 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:39:07 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:39:08 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:39:08 INF] Hosting environment: Development
+[2025-07-30 10:39:08 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:39:11 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:39:12 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+[2025-07-30 10:39:12 ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetAllAsync() in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 44
+   at JopApplication.Services.Handlers.GetAllJobsHandler.Handle(GetAllJobsQuery request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\GetAllJobsHandler.cs:line 25
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.GetAllJobs() in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 10:39:37 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:39:37 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:39:37 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:39:37 INF] Hosting environment: Development
+[2025-07-30 10:39:37 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:39:41 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:39:42 ERR] An exception occurred while iterating over the results of a query for context type 'JopApplication.Infrastructure.DBContext.JobAppDbContext'.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+[2025-07-30 10:39:42 ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_String()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method64(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at JopApplication.Infrastructure.Repositories.JobRepository.GetAllAsync() in E:\BM\JopApplicationMS\JopApplication.Infrastructure\Repositories\JobRepository.cs:line 44
+   at JopApplication.Services.Handlers.GetAllJobsHandler.Handle(GetAllJobsQuery request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\GetAllJobsHandler.cs:line 25
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.JobController.GetAllJobs() in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\JobController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 10:42:21 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:42:21 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:42:21 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:42:21 INF] Hosting environment: Development
+[2025-07-30 10:42:21 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:42:24 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:42:25 INF] ✅ HTTP GET /api/Job finished with 200 in 1060 ms
+[2025-07-30 10:44:05 INF] Now listening on: https://localhost:7017
+[2025-07-30 10:44:05 INF] Now listening on: http://localhost:5186
+[2025-07-30 10:44:05 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 10:44:05 INF] Hosting environment: Development
+[2025-07-30 10:44:05 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 10:44:13 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 10:44:14 INF] ✅ HTTP GET /api/Job finished with 200 in 1148 ms
+[2025-07-30 11:05:45 INF] Now listening on: https://localhost:7017
+[2025-07-30 11:05:45 INF] Now listening on: http://localhost:5186
+[2025-07-30 11:05:45 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 11:05:45 INF] Hosting environment: Development
+[2025-07-30 11:05:45 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 11:06:05 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 11:06:06 INF] ✅ HTTP GET /api/Job finished with 200 in 1081 ms
+[2025-07-30 11:47:42 INF] Now listening on: https://localhost:7017
+[2025-07-30 11:47:42 INF] Now listening on: http://localhost:5186
+[2025-07-30 11:47:42 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 11:47:42 INF] Hosting environment: Development
+[2025-07-30 11:47:42 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 12:11:35 INF] Now listening on: https://localhost:7017
+[2025-07-30 12:11:35 INF] Now listening on: http://localhost:5186
+[2025-07-30 12:11:35 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 12:11:35 INF] Hosting environment: Development
+[2025-07-30 12:11:35 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 12:12:33 INF] ➡️ HTTP POST /api/Application started
+[2025-07-30 12:12:34 ERR] An unhandled exception has occurred while executing the request.
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Application -> GetApplicationDto
+JopApplication.Core.Models.Application -> JopApplication.Core.DTOs.Application.GetApplicationDto
+
+Type Map configuration:
+Application -> GetApplicationDto
+JopApplication.Core.Models.Application -> JopApplication.Core.DTOs.Application.GetApplicationDto
+
+Destination Member:
+JobTitle
+
+ ---> System.FormatException: The input string 'Senior Full-Stack Developer' was not in a correct format.
+   at System.Number.ThrowFormatException[TChar](ReadOnlySpan`1 value)
+   at lambda_method274(Closure, Object, GetApplicationDto, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method274(Closure, Object, GetApplicationDto, ResolutionContext)
+   at JopApplication.Services.Handlers.Application.CreateApplicationHandler.Handle(CreateApplicationCommand request, CancellationToken cancellationToken) in E:\BM\JopApplicationMS\JopApplication.Services\Handlers\Application\CreateApplicationHandler.cs:line 30
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at JopApplicationMS.API.Controllers.ApplicationController.assignToApplication(CreateApplicationDto applicationDto) in E:\BM\JopApplicationMS\JopApplicationMS\Controllers\ApplicationController.cs:line 34
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[2025-07-30 12:15:21 INF] Now listening on: https://localhost:7017
+[2025-07-30 12:15:21 INF] Now listening on: http://localhost:5186
+[2025-07-30 12:15:21 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 12:15:21 INF] Hosting environment: Development
+[2025-07-30 12:15:21 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 12:16:15 INF] ➡️ HTTP POST /api/Application started
+[2025-07-30 12:16:16 INF] ✅ HTTP POST /api/Application finished with 200 in 1258 ms
+[2025-07-30 12:16:31 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 12:16:31 INF] ✅ HTTP GET /api/Job finished with 200 in 114 ms
+[2025-07-30 13:22:14 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:22:14 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:22:14 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:22:14 INF] Hosting environment: Development
+[2025-07-30 13:22:14 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:23:25 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:23:25 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:23:25 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:23:25 INF] Hosting environment: Development
+[2025-07-30 13:23:25 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:33:40 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:33:40 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:33:40 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:33:40 INF] Hosting environment: Development
+[2025-07-30 13:33:40 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:36:14 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:36:14 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:36:14 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:36:14 INF] Hosting environment: Development
+[2025-07-30 13:36:14 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:36:25 INF] ➡️ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream started
+[2025-07-30 13:36:26 INF] ✅ HTTP GET /api/Job 200 finished with Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream in 1468 ms
+[2025-07-30 13:38:02 INF] ➡️ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream started
+[2025-07-30 13:38:02 INF] ✅ HTTP GET /api/Job 200 finished with Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream in 140 ms
+[2025-07-30 13:41:54 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:41:54 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:41:54 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:41:54 INF] Hosting environment: Development
+[2025-07-30 13:41:54 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:42:03 INF] ➡️ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream started
+[2025-07-30 13:42:05 INF] ✅ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream finished with 200 in 1112 ms
+[2025-07-30 13:42:25 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:42:25 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:42:25 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:42:25 INF] Hosting environment: Development
+[2025-07-30 13:42:25 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:42:31 INF] ➡️ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream started
+[2025-07-30 13:42:32 INF] ✅ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream finished with 200 in 1192 ms
+[2025-07-30 13:46:11 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:46:11 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:46:11 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:46:11 INF] Hosting environment: Development
+[2025-07-30 13:46:11 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:47:11 INF] ➡️ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream started
+[2025-07-30 13:47:12 INF] ✅ HTTP GET /api/Job Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream finished with 200 in 1146 ms
+[2025-07-30 13:52:08 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:52:08 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:52:08 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:52:08 INF] Hosting environment: Development
+[2025-07-30 13:52:08 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:52:14 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 13:52:14 ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'JopApplicationMS.API.Controllers.JobController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[2025-07-30 13:52:14 ERR] Unhandled exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'JopApplicationMS.API.Controllers.JobController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[2025-07-30 13:54:48 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:54:48 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:54:48 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:54:48 INF] Hosting environment: Development
+[2025-07-30 13:54:48 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:54:53 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 13:54:53 ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'JopApplicationMS.API.Controllers.JobController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[2025-07-30 13:54:53 ERR] Unhandled exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'JopApplicationMS.API.Controllers.JobController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at JopApplicationMS.API.Middlewares.RequestLoggingMiddleware.Invoke(HttpContext context) in E:\BM\JopApplicationMS\JopApplicationMS\Middlewares\RequestLoggingMiddleware.cs:line 25
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[2025-07-30 13:59:49 INF] Now listening on: https://localhost:7017
+[2025-07-30 13:59:49 INF] Now listening on: http://localhost:5186
+[2025-07-30 13:59:49 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 13:59:49 INF] Hosting environment: Development
+[2025-07-30 13:59:49 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 13:59:57 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 13:59:59 INF] ✅ HTTP GET /api/Job 200 finished with 1237 in {Elapsed} ms
+[2025-07-30 14:00:20 INF] Now listening on: https://localhost:7017
+[2025-07-30 14:00:20 INF] Now listening on: http://localhost:5186
+[2025-07-30 14:00:21 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 14:00:21 INF] Hosting environment: Development
+[2025-07-30 14:00:21 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 14:00:28 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 14:00:29 INF] ✅ HTTP GET /api/Job 200 finished with 1157 in {Elapsed} ms
+[2025-07-30 14:01:47 INF] Now listening on: https://localhost:7017
+[2025-07-30 14:01:47 INF] Now listening on: http://localhost:5186
+[2025-07-30 14:01:47 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 14:01:47 INF] Hosting environment: Development
+[2025-07-30 14:01:47 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 14:02:31 INF] Now listening on: https://localhost:7017
+[2025-07-30 14:02:31 INF] Now listening on: http://localhost:5186
+[2025-07-30 14:02:32 INF] Application started. Press Ctrl+C to shut down.
+[2025-07-30 14:02:32 INF] Hosting environment: Development
+[2025-07-30 14:02:32 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-07-30 14:02:35 INF] ➡️ HTTP GET /api/Job started
+[2025-07-30 14:02:36 INF] Creating a new job with details: [{"Id":2,"Title":"Senior Full-Stack Developer","Description":"5+ Years in Development Position","Email":"CompanyA@gmail.com","Location":"District 5, Cairo","Salary":15000.00,"PostedAt":null,"CreatedByName":"admin","Applied":2,"Company":"Company A","$type":"GetJobDto"},{"Id":4,"Title":"Test","Description":"sdasdasd","Email":"string","Location":"string","Salary":9500.00,"PostedAt":null,"CreatedByName":"admin","Applied":0,"Company":"Comapany test","$type":"GetJobDto"},{"Id":5,"Title":"test final","Description":"dasdasdas","Email":"ddasdas","Location":"string","Salary":0.00,"PostedAt":null,"CreatedByName":"admin","Applied":0,"Company":"Comp 15","$type":"GetJobDto"},{"Id":7,"Title":"final test for today","Description":"dsdsdsdsdsdsdsdsdsdsd","Email":"string","Location":"string","Salary":9999.00,"PostedAt":null,"CreatedByName":"admin","Applied":0,"Company":"banq","$type":"GetJobDto"},{"Id":8,"Title":"string","Description":"string","Email":"string","Location":"string","Salary":0.00,"PostedAt":null,"CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":9,"Title":"job form CQRS","Description":"string","Email":"string","Location":"string","Salary":0.00,"PostedAt":null,"CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":10,"Title":"CQRS+ no mapper","Description":"string","Email":"string","Location":"string","Salary":0.00,"PostedAt":null,"CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":11,"Title":"CQRS + mapper","Description":"string","Email":"string","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T12:10:36.6500000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":12,"Title":"serilog","Description":"string","Email":"string","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T19:13:30.4670000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":13,"Title":"filter","Description":"string","Email":"use@xample.com","Location":"string","Salary":15000.00,"PostedAt":"2025-07-29T21:31:19.2430000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":14,"Title":"returnDto","Description":"string","Email":"user@example.com","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T21:53:18.0470000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":15,"Title":"new oneeee","Description":"string","Email":"user@example.com","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T22:09:46.5830000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":16,"Title":"cccccc","Description":"string","Email":"user@example.com","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T22:12:21.6170000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":17,"Title":"aaaa","Description":"string","Email":"user@example.com","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T22:18:05.9970000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":18,"Title":"cdsfds","Description":"string","Email":"user@example.com","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T22:19:21.1370000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":19,"Title":"sleep","Description":"string","Email":"user@example.com","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T22:22:07.3000000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"},{"Id":20,"Title":"no rev map","Description":"string","Email":"user@example.com","Location":"string","Salary":0.00,"PostedAt":"2025-07-29T22:24:10.0730000","CreatedByName":"admin","Applied":0,"Company":"string","$type":"GetJobDto"}]
+[2025-07-30 14:02:36 INF] ✅ HTTP GET /api/Job 200 finished with 1206 in {Elapsed} ms

@@ -1,0 +1,32 @@
+<main
+  class="min-vh-100 bg-dark d-flex justify-content-center align-items-center"
+>
+  <div class="container py-5">
+    <div class="m-t-100">
+      <h1 class="text-primary mb-5">
+        <a routerLink="/admin-dashboard" class="text-decoration-none">
+          <i class="fa-solid fa-angle-left"></i> Back to Jobs</a
+        >
+      </h1>
+      <h2 class="text-white-50">
+        Application For Job : {{ applications[0].jobTitle }}
+      </h2>
+      <table class="table table-dark table-hover table-responsive">
+        <thead>
+          <tr>
+            <th class="bg-secondary" scope="col">Applicant</th>
+            <th class="bg-secondary" scope="col">Job Title</th>
+            <th class="bg-secondary" scope="col">Applied At</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let app of applications">
+            <th scope="row">{{ app.applicant }}</th>
+            <td>{{ app.jobTitle }}</td>
+            <td>{{ app.appliedAt | date }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</main>

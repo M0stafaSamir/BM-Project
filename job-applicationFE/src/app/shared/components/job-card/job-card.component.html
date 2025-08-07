@@ -1,0 +1,25 @@
+<div class="card text-center glassy-bg text-white">
+  <div class="card-header">{{ job.company }}</div>
+  <div class="card-body">
+    <h5 class="card-title">{{ job.title }}</h5>
+    <p class="card-text">
+      {{ job.description || "No description available." }}
+    </p>
+    <div class="d-flex gap-2 justify-content-center">
+      <a
+        routerLink="/job-details/{{ job.id }}"
+        class="btn btn-primary mainBg border-0"
+        data-mdb-ripple-init
+        >See Details <i class="fa-solid fa-chevron-right"></i
+      ></a>
+      <!-- <button
+        routerLink="/job-details/{{ job.id }}"
+        class="btn btn-danger border-0"
+        data-mdb-ripple-init
+      >
+        Delete
+      </button> -->
+    </div>
+  </div>
+  <div class="card-footer">{{ job.postedAt | date }}</div>
+</div>

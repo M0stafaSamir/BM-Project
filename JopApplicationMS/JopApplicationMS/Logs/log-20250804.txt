@@ -1,0 +1,83 @@
+[2025-08-04 08:40:49 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:40:50 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 250 in {Elapsed} ms
+[2025-08-04 08:41:07 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:41:07 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 24 in {Elapsed} ms
+[2025-08-04 08:41:10 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:41:10 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-04 08:41:17 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:41:17 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-04 08:41:23 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:41:23 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-04 08:43:42 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 08:43:42 INF] ✅ HTTP GET /api/job/getAll 200 finished with 39 in {Elapsed} ms
+[2025-08-04 08:43:45 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:43:45 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 19 in {Elapsed} ms
+[2025-08-04 08:48:13 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:48:13 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 21 in {Elapsed} ms
+[2025-08-04 08:48:38 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:48:38 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 16 in {Elapsed} ms
+[2025-08-04 08:48:42 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:48:42 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 8 in {Elapsed} ms
+[2025-08-04 08:48:45 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:48:45 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-04 08:48:47 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:48:47 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 8 in {Elapsed} ms
+[2025-08-04 08:48:51 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 08:48:51 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 7 in {Elapsed} ms
+[2025-08-04 08:49:48 INF] Now listening on: https://localhost:7017
+[2025-08-04 08:49:48 INF] Now listening on: http://localhost:5186
+[2025-08-04 08:49:48 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-04 08:49:48 INF] Hosting environment: Development
+[2025-08-04 08:49:48 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-04 09:11:23 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 09:11:33 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 9738 in {Elapsed} ms
+[2025-08-04 09:15:30 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-04 09:15:31 INF] ✅ HTTP POST /api/auth/login 200 finished with 821 in {Elapsed} ms
+[2025-08-04 09:22:22 INF] ➡️ HTTP POST /api/job/create started
+[2025-08-04 09:22:22 INF] ✅ HTTP POST /api/job/create 400 finished with 45 in {Elapsed} ms
+[2025-08-04 09:25:39 INF] ➡️ HTTP POST /api/job/create started
+[2025-08-04 09:25:39 INF] ✅ HTTP POST /api/job/create 400 finished with 8 in {Elapsed} ms
+[2025-08-04 09:26:34 INF] ➡️ HTTP POST /api/job/create started
+[2025-08-04 09:26:34 INF] ✅ HTTP POST /api/job/create 400 finished with 7 in {Elapsed} ms
+[2025-08-04 09:27:11 INF] ➡️ HTTP POST /api/job/create started
+[2025-08-04 09:27:11 INF] ✅ HTTP POST /api/job/create 400 finished with 6 in {Elapsed} ms
+[2025-08-04 09:29:11 INF] ➡️ HTTP POST /api/job/create started
+[2025-08-04 09:29:11 INF] Creating a new job with details: {"Title":"Data Engineer ","Description":"An Experienced Data Engineer with a good understanding modern technologies ","Email":"Tecno@tec.com","Location":"Giza, Egypt","Salary":26000,"PostedAt":"2025-08-04T06:29:10.9640000Z","CreatedById":"04d559df-e872-418d-934f-12aa27bd14ec","Company":"Tecno","$type":"CreateJobDto"}
+[2025-08-04 09:29:11 INF] Created job with details: {"Id":21,"Title":"Data Engineer ","Description":"An Experienced Data Engineer with a good understanding modern technologies ","Email":"Tecno@tec.com","Location":"Giza, Egypt","Salary":26000,"PostedAt":"2025-08-04T06:29:10.9640000Z","CreatedByName":"admin@admin.com","Applied":0,"Company":"Tecno","$type":"GetJobDto"}
+[2025-08-04 09:29:11 INF] ✅ HTTP POST /api/job/create 200 finished with 696 in {Elapsed} ms
+[2025-08-04 09:31:27 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 09:31:27 INF] ✅ HTTP GET /api/job/getAll 200 finished with 115 in {Elapsed} ms
+[2025-08-04 10:34:25 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 10:34:25 INF] ✅ HTTP GET /api/job/getAll 200 finished with 45 in {Elapsed} ms
+[2025-08-04 10:34:35 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 10:34:35 INF] ✅ HTTP GET /api/job/getAll 200 finished with 7 in {Elapsed} ms
+[2025-08-04 10:49:10 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 10:49:10 INF] ✅ HTTP GET /api/job/getAll 200 finished with 15 in {Elapsed} ms
+[2025-08-04 10:50:06 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-04 10:50:06 INF] ✅ HTTP POST /api/auth/login 200 finished with 70 in {Elapsed} ms
+[2025-08-04 10:50:11 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 10:50:11 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-04 10:50:15 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-04 10:50:15 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-04 11:20:31 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-04 11:20:31 INF] ✅ HTTP POST /api/auth/login 400 finished with 95 in {Elapsed} ms
+[2025-08-04 11:20:34 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-04 11:20:34 INF] ✅ HTTP POST /api/auth/login 400 finished with 265 in {Elapsed} ms
+[2025-08-04 11:20:46 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-04 11:20:46 INF] ✅ HTTP POST /api/auth/login 200 finished with 86 in {Elapsed} ms
+[2025-08-04 11:21:13 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-04 11:21:13 INF] ✅ HTTP POST /api/auth/login 200 finished with 65 in {Elapsed} ms
+[2025-08-04 11:21:15 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 11:21:15 INF] ✅ HTTP GET /api/job/getAll 200 finished with 8 in {Elapsed} ms
+[2025-08-04 11:21:56 INF] ➡️ HTTP POST /api/job/create started
+[2025-08-04 11:21:56 INF] Creating a new job with details: {"Title":"xyz","Description":"sasas","Email":"mss@mm.com","Location":"sasas","Salary":1515,"PostedAt":"2025-08-04T08:21:56.1890000Z","CreatedById":"04d559df-e872-418d-934f-12aa27bd14ec","Company":"asa","$type":"CreateJobDto"}
+[2025-08-04 11:21:56 INF] Created job with details: {"Id":22,"Title":"xyz","Description":"sasas","Email":"mss@mm.com","Location":"sasas","Salary":1515,"PostedAt":"2025-08-04T08:21:56.1890000Z","CreatedByName":"admin@admin.com","Applied":0,"Company":"asa","$type":"GetJobDto"}
+[2025-08-04 11:21:56 INF] ✅ HTTP POST /api/job/create 200 finished with 22 in {Elapsed} ms
+[2025-08-04 11:22:07 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 11:22:07 INF] ✅ HTTP GET /api/job/getAll 200 finished with 6 in {Elapsed} ms
+[2025-08-04 13:12:31 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-04 13:12:31 INF] ✅ HTTP POST /api/auth/login 200 finished with 83 in {Elapsed} ms
+[2025-08-04 13:25:42 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 13:25:42 INF] ✅ HTTP GET /api/job/getAll 200 finished with 18 in {Elapsed} ms
+[2025-08-04 13:27:59 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-04 13:27:59 INF] ✅ HTTP GET /api/job/getAll 200 finished with 8 in {Elapsed} ms

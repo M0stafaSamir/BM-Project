@@ -1,0 +1,548 @@
+[2025-08-06 09:06:34 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:06:34 INF] ✅ HTTP GET /api/job/getAll 200 finished with 141 in {Elapsed} ms
+[2025-08-06 09:13:00 INF] ➡️ HTTP GET /api/application/JobApplication/2 started
+[2025-08-06 09:13:00 INF] ✅ HTTP GET /api/application/JobApplication/2 200 finished with 8 in {Elapsed} ms
+[2025-08-06 09:13:06 INF] Now listening on: https://localhost:7017
+[2025-08-06 09:13:06 INF] Now listening on: http://localhost:5186
+[2025-08-06 09:13:06 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 09:13:06 INF] Hosting environment: Development
+[2025-08-06 09:13:06 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 09:13:53 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:13:54 INF] ✅ HTTP GET /api/job/getAll 200 finished with 1338 in {Elapsed} ms
+[2025-08-06 09:14:00 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:14:00 INF] ✅ HTTP GET /api/job/getAll 200 finished with 34 in {Elapsed} ms
+[2025-08-06 09:14:03 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:14:04 INF] ✅ HTTP GET /api/job/getAll 200 finished with 60 in {Elapsed} ms
+[2025-08-06 09:14:08 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:14:08 INF] ✅ HTTP GET /api/job/getAll 200 finished with 12 in {Elapsed} ms
+[2025-08-06 09:15:08 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 09:15:08 INF] ✅ HTTP POST /api/auth/login 200 finished with 225 in {Elapsed} ms
+[2025-08-06 09:15:10 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:15:10 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 44 in {Elapsed} ms
+[2025-08-06 09:15:54 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:15:54 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 15 in {Elapsed} ms
+[2025-08-06 09:16:20 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:16:20 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 11 in {Elapsed} ms
+[2025-08-06 09:16:34 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:16:34 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 8 in {Elapsed} ms
+[2025-08-06 09:16:58 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:16:58 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:17:10 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:17:10 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:18:07 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:18:08 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-06 09:18:21 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:18:21 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:18:26 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:18:26 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:19:00 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:19:01 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 9 in {Elapsed} ms
+[2025-08-06 09:19:11 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:19:11 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:19:14 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:19:14 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:21:27 INF] Now listening on: https://localhost:7017
+[2025-08-06 09:21:27 INF] Now listening on: http://localhost:5186
+[2025-08-06 09:21:27 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 09:21:27 INF] Hosting environment: Development
+[2025-08-06 09:21:27 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 09:21:47 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:21:48 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 1231 in {Elapsed} ms
+[2025-08-06 09:22:15 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:15 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 36 in {Elapsed} ms
+[2025-08-06 09:22:16 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:17 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 57 in {Elapsed} ms
+[2025-08-06 09:22:19 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:19 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-06 09:22:23 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:23 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:22:28 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:29 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:22:30 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:30 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:22:33 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:33 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 9 in {Elapsed} ms
+[2025-08-06 09:22:39 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:39 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:22:45 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:45 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:22:48 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:49 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 9 in {Elapsed} ms
+[2025-08-06 09:22:53 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:53 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:22:57 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:57 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-06 09:22:58 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:22:58 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 7 in {Elapsed} ms
+[2025-08-06 09:23:29 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:23:29 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-06 09:23:34 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:23:34 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:23:53 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:23:53 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-06 09:24:03 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:24:03 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 17 in {Elapsed} ms
+[2025-08-06 09:26:32 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:26:32 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 11 in {Elapsed} ms
+[2025-08-06 09:26:34 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:26:34 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:26:52 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:26:52 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:26:59 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:26:59 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:27:01 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:27:01 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:27:21 INF] ➡️ HTTP DELETE /api/application/deleteApplication/1 started
+[2025-08-06 09:27:21 INF] ✅ HTTP DELETE /api/application/deleteApplication/1 200 finished with 48 in {Elapsed} ms
+[2025-08-06 09:27:21 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:27:21 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:27:29 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:27:29 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 11 in {Elapsed} ms
+[2025-08-06 09:27:35 INF] ➡️ HTTP DELETE /api/application/deleteApplication/1 started
+[2025-08-06 09:27:35 INF] ✅ HTTP DELETE /api/application/deleteApplication/1 200 finished with 8 in {Elapsed} ms
+[2025-08-06 09:27:35 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:27:35 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:27:43 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:27:43 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:29:00 INF] Now listening on: https://localhost:7017
+[2025-08-06 09:29:00 INF] Now listening on: http://localhost:5186
+[2025-08-06 09:29:00 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 09:29:00 INF] Hosting environment: Development
+[2025-08-06 09:29:00 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 09:29:02 INF] ➡️ HTTP DELETE /api/application/deleteApplication/1 started
+[2025-08-06 09:29:07 INF] ✅ HTTP DELETE /api/application/deleteApplication/1 200 finished with 4465 in {Elapsed} ms
+[2025-08-06 09:29:07 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:07 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 119 in {Elapsed} ms
+[2025-08-06 09:29:24 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:24 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 60 in {Elapsed} ms
+[2025-08-06 09:29:34 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:34 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 8 in {Elapsed} ms
+[2025-08-06 09:29:37 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:37 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-06 09:29:38 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:38 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-06 09:29:39 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:39 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:29:50 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:50 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:29:54 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:29:54 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:30:00 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:30:00 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:30:06 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:30:06 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-06 09:33:11 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:33:11 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:33:12 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:33:12 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:33:14 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:33:14 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:34:26 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:34:26 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:34:44 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:34:44 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:34:50 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:34:50 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:34:52 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:34:52 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:35:36 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:35:36 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:35:43 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:35:43 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:35:45 INF] ➡️ HTTP GET /api/application/JobApplication/8 started
+[2025-08-06 09:35:45 INF] ✅ HTTP GET /api/application/JobApplication/8 403 finished with 3 in {Elapsed} ms
+[2025-08-06 09:35:52 INF] ➡️ HTTP GET /api/application/JobApplication/8 started
+[2025-08-06 09:35:52 INF] ✅ HTTP GET /api/application/JobApplication/8 403 finished with 2 in {Elapsed} ms
+[2025-08-06 09:36:10 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:36:10 INF] ✅ HTTP GET /api/job/getAll 200 finished with 70 in {Elapsed} ms
+[2025-08-06 09:36:11 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 09:36:11 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 123 in {Elapsed} ms
+[2025-08-06 09:36:14 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:36:14 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:36:19 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:36:19 INF] ✅ HTTP GET /api/job/getAll 200 finished with 7 in {Elapsed} ms
+[2025-08-06 09:36:23 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 09:36:23 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:36:26 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:36:26 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:37:56 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:37:56 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:38:15 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:38:15 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:38:29 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:38:29 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:38:31 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:38:31 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:38:39 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:38:39 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:38:46 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:38:46 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:39:31 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:39:31 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 17 in {Elapsed} ms
+[2025-08-06 09:39:40 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:39:40 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:39:43 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:39:43 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-06 09:39:48 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:39:48 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 2 in {Elapsed} ms
+[2025-08-06 09:39:54 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:39:54 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:39:58 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:39:58 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-06 09:40:12 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:40:12 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:40:14 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:40:14 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:40:17 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:40:17 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:42:08 INF] ➡️ HTTP DELETE /api/application/deleteApplication/9 started
+[2025-08-06 09:42:08 INF] ✅ HTTP DELETE /api/application/deleteApplication/9 200 finished with 13 in {Elapsed} ms
+[2025-08-06 09:42:08 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:42:08 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:42:11 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:42:11 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:42:15 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:42:15 INF] ✅ HTTP GET /api/job/getAll 200 finished with 7 in {Elapsed} ms
+[2025-08-06 09:42:16 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:42:16 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:42:20 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:42:20 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:42:21 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:42:21 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:43:42 INF] Now listening on: https://localhost:7017
+[2025-08-06 09:43:42 INF] Now listening on: http://localhost:5186
+[2025-08-06 09:43:42 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 09:43:42 INF] Hosting environment: Development
+[2025-08-06 09:43:42 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 09:43:51 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:43:52 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 1666 in {Elapsed} ms
+[2025-08-06 09:44:05 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:05 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 38 in {Elapsed} ms
+[2025-08-06 09:44:09 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:10 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 58 in {Elapsed} ms
+[2025-08-06 09:44:19 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:19 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:44:22 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:22 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:44:26 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:26 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:44:27 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:27 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:44:39 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:39 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:44:40 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:40 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:44:45 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:45 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:44:49 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:49 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:44:55 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:44:55 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:45:05 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:45:05 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:45:08 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:45:08 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:45:11 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:45:11 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:45:53 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:45:53 INF] ✅ HTTP GET /api/job/getAll 200 finished with 84 in {Elapsed} ms
+[2025-08-06 09:45:53 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 09:45:53 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 47 in {Elapsed} ms
+[2025-08-06 09:46:06 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 09:46:06 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:46:08 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 09:46:08 INF] ✅ HTTP GET /api/job/getAll 200 finished with 8 in {Elapsed} ms
+[2025-08-06 09:46:08 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:46:08 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:46:09 INF] ➡️ HTTP GET /api/job/getById/5 started
+[2025-08-06 09:46:09 INF] ✅ HTTP GET /api/job/getById/5 200 finished with 4 in {Elapsed} ms
+[2025-08-06 09:46:11 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:46:11 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 09:46:12 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 09:46:12 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 09:46:14 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 09:46:14 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:00:08 INF] Now listening on: https://localhost:7017
+[2025-08-06 10:00:08 INF] Now listening on: http://localhost:5186
+[2025-08-06 10:00:08 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 10:00:08 INF] Hosting environment: Development
+[2025-08-06 10:00:08 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 10:00:31 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:00:32 INF] ✅ HTTP POST /api/auth/login 400 finished with 993 in {Elapsed} ms
+[2025-08-06 10:00:41 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:00:41 INF] ✅ HTTP POST /api/auth/login 200 finished with 158 in {Elapsed} ms
+[2025-08-06 10:00:43 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:00:43 INF] ✅ HTTP GET /api/job/getAll 200 finished with 304 in {Elapsed} ms
+[2025-08-06 10:00:45 INF] ➡️ HTTP GET /api/application/JobApplication/2 started
+[2025-08-06 10:00:45 INF] ✅ HTTP GET /api/application/JobApplication/2 200 finished with 38 in {Elapsed} ms
+[2025-08-06 10:02:02 INF] Now listening on: https://localhost:7017
+[2025-08-06 10:02:02 INF] Now listening on: http://localhost:5186
+[2025-08-06 10:02:02 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 10:02:02 INF] Hosting environment: Development
+[2025-08-06 10:02:02 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 10:02:35 INF] ➡️ HTTP POST /api/auth/register started
+[2025-08-06 10:02:36 INF] ✅ HTTP POST /api/auth/register 200 finished with 1444 in {Elapsed} ms
+[2025-08-06 10:02:51 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:02:51 INF] ✅ HTTP POST /api/auth/login 200 finished with 118 in {Elapsed} ms
+[2025-08-06 10:02:54 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:02:55 INF] ✅ HTTP GET /api/job/getAll 200 finished with 299 in {Elapsed} ms
+[2025-08-06 10:02:55 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:02:55 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 32 in {Elapsed} ms
+[2025-08-06 10:02:57 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:02:57 INF] ✅ HTTP GET /api/job/getAll 200 finished with 9 in {Elapsed} ms
+[2025-08-06 10:03:00 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:03:00 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 6 in {Elapsed} ms
+[2025-08-06 10:03:21 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:03:21 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 7 in {Elapsed} ms
+[2025-08-06 10:03:23 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:03:23 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:03:24 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:03:24 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:03:26 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:03:26 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:04:04 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:04 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:04:05 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:05 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:04:17 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:17 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:04:18 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:18 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:04:20 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:20 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:04:20 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:20 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:04:20 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:20 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:04:21 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:21 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:04:31 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:31 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:04:38 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:38 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:04:40 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:40 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:04:51 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:51 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:04:54 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:54 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:04:59 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:04:59 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:05:02 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:05:02 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:05:15 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:05:15 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:05:21 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:05:21 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 7 in {Elapsed} ms
+[2025-08-06 10:05:21 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:05:21 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:07:08 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:07:08 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 48 in {Elapsed} ms
+[2025-08-06 10:07:08 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:07:09 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:07:49 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:07:49 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:08:02 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:08:02 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:08:37 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:08:37 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:09:15 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:16 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:09:25 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:25 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:09:26 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:26 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:09:32 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:32 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:09:36 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:36 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:09:41 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:41 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 2 in {Elapsed} ms
+[2025-08-06 10:09:58 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:58 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:09:59 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:09:59 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:11:39 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:11:39 INF] ✅ HTTP GET /api/job/getAll 200 finished with 8 in {Elapsed} ms
+[2025-08-06 10:11:41 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:11:42 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 129 in {Elapsed} ms
+[2025-08-06 10:12:19 INF] ➡️ HTTP POST /api/application/apply started
+[2025-08-06 10:12:19 INF] ✅ HTTP POST /api/application/apply 200 finished with 213 in {Elapsed} ms
+[2025-08-06 10:12:23 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:12:23 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:12:33 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:12:33 INF] ✅ HTTP GET /api/job/getAll 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:13:31 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:13:31 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:13:38 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:13:38 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:15:50 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:15:50 INF] ✅ HTTP POST /api/auth/login 400 finished with 74 in {Elapsed} ms
+[2025-08-06 10:15:52 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:15:52 INF] ✅ HTTP POST /api/auth/login 200 finished with 62 in {Elapsed} ms
+[2025-08-06 10:15:54 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:15:54 INF] ✅ HTTP GET /api/job/getAll 200 finished with 12 in {Elapsed} ms
+[2025-08-06 10:15:54 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:15:54 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:16:13 INF] ➡️ HTTP POST /api/application/apply started
+[2025-08-06 10:16:13 INF] ✅ HTTP POST /api/application/apply 200 finished with 20 in {Elapsed} ms
+[2025-08-06 10:16:39 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:16:39 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:16:40 INF] ➡️ HTTP DELETE /api/application/deleteApplication/11 started
+[2025-08-06 10:16:40 INF] ✅ HTTP DELETE /api/application/deleteApplication/11 200 finished with 31 in {Elapsed} ms
+[2025-08-06 10:16:40 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:16:40 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 2 in {Elapsed} ms
+[2025-08-06 10:16:42 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:16:42 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:16:43 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:16:43 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:16:44 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:16:44 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:17:18 INF] Now listening on: https://localhost:7017
+[2025-08-06 10:17:18 INF] Now listening on: http://localhost:5186
+[2025-08-06 10:17:18 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 10:17:18 INF] Hosting environment: Development
+[2025-08-06 10:17:18 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 10:18:08 INF] Now listening on: https://localhost:7017
+[2025-08-06 10:18:08 INF] Now listening on: http://localhost:5186
+[2025-08-06 10:18:08 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 10:18:08 INF] Hosting environment: Development
+[2025-08-06 10:18:08 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 10:18:54 INF] ➡️ HTTP POST /api/application/apply started
+[2025-08-06 10:25:41 INF] Now listening on: https://localhost:7017
+[2025-08-06 10:25:41 INF] Now listening on: http://localhost:5186
+[2025-08-06 10:25:41 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 10:25:41 INF] Hosting environment: Development
+[2025-08-06 10:25:41 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 10:25:51 INF] ➡️ HTTP POST /api/application/apply started
+[2025-08-06 10:28:09 INF] ✅ HTTP POST /api/application/apply 400 finished with 138171 in {Elapsed} ms
+[2025-08-06 10:28:44 INF] Now listening on: https://localhost:7017
+[2025-08-06 10:28:44 INF] Now listening on: http://localhost:5186
+[2025-08-06 10:28:44 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 10:28:44 INF] Hosting environment: Development
+[2025-08-06 10:28:44 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 10:29:29 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:29:30 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 1206 in {Elapsed} ms
+[2025-08-06 10:29:30 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:29:30 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 30 in {Elapsed} ms
+[2025-08-06 10:29:36 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:29:36 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 57 in {Elapsed} ms
+[2025-08-06 10:29:40 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:29:40 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:29:49 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:29:49 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:30:16 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:30:16 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:33:19 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:33:19 INF] ✅ HTTP GET /api/job/getAll 200 finished with 49 in {Elapsed} ms
+[2025-08-06 10:33:20 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:33:20 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-06 10:33:39 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:33:39 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:33:42 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:33:42 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-06 10:33:56 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:33:56 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:34:09 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:34:09 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:34:15 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:34:15 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:34:22 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:34:22 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 7 in {Elapsed} ms
+[2025-08-06 10:34:30 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:34:30 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 29 in {Elapsed} ms
+[2025-08-06 10:34:53 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:34:54 INF] ✅ HTTP POST /api/auth/login 400 finished with 154 in {Elapsed} ms
+[2025-08-06 10:34:57 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:34:57 INF] ✅ HTTP POST /api/auth/login 200 finished with 83 in {Elapsed} ms
+[2025-08-06 10:34:59 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:34:59 INF] ✅ HTTP GET /api/job/getAll 200 finished with 6 in {Elapsed} ms
+[2025-08-06 10:35:28 INF] ➡️ HTTP POST /api/auth/login started
+[2025-08-06 10:35:28 INF] ✅ HTTP POST /api/auth/login 200 finished with 68 in {Elapsed} ms
+[2025-08-06 10:35:30 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:35:30 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:35:30 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:35:30 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-06 10:35:31 INF] ➡️ HTTP DELETE /api/application/deleteApplication/2 started
+[2025-08-06 10:35:32 INF] ✅ HTTP DELETE /api/application/deleteApplication/2 200 finished with 282 in {Elapsed} ms
+[2025-08-06 10:35:32 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:35:32 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:35:33 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:35:33 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:35:33 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:35:33 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:35:54 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:35:54 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:36:06 INF] Now listening on: https://localhost:7017
+[2025-08-06 10:36:06 INF] Now listening on: http://localhost:5186
+[2025-08-06 10:36:07 INF] Application started. Press Ctrl+C to shut down.
+[2025-08-06 10:36:07 INF] Hosting environment: Development
+[2025-08-06 10:36:07 INF] Content root path: E:\BM\JopApplicationMS\JopApplicationMS
+[2025-08-06 10:36:24 INF] ➡️ HTTP POST /api/application/apply started
+[2025-08-06 10:36:25 INF] ✅ HTTP POST /api/application/apply 200 finished with 1298 in {Elapsed} ms
+[2025-08-06 10:36:29 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:36:29 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 48 in {Elapsed} ms
+[2025-08-06 10:36:30 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:36:30 INF] ✅ HTTP GET /api/job/getAll 200 finished with 191 in {Elapsed} ms
+[2025-08-06 10:36:32 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:36:32 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 31 in {Elapsed} ms
+[2025-08-06 10:36:42 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:36:42 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 8 in {Elapsed} ms
+[2025-08-06 10:36:44 INF] ➡️ HTTP DELETE /api/application/deleteApplication/12 started
+[2025-08-06 10:36:44 INF] ✅ HTTP DELETE /api/application/deleteApplication/12 200 finished with 40 in {Elapsed} ms
+[2025-08-06 10:36:44 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:36:44 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:36:45 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:36:45 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:36:45 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:36:45 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:37:22 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:37:22 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 6 in {Elapsed} ms
+[2025-08-06 10:37:30 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:37:30 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:37:42 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:37:42 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:37:47 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:37:47 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:38:20 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:38:20 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:38:43 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:38:43 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:39:07 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:39:07 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:39:20 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:39:20 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 10:39:30 INF] ➡️ HTTP POST /api/application/apply started
+[2025-08-06 10:39:30 INF] ✅ HTTP POST /api/application/apply 200 finished with 29 in {Elapsed} ms
+[2025-08-06 10:39:30 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:39:30 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:39:36 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:39:36 INF] ✅ HTTP GET /api/job/getAll 200 finished with 6 in {Elapsed} ms
+[2025-08-06 10:39:37 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:39:37 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:39:38 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:39:38 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 10:39:39 INF] ➡️ HTTP DELETE /api/application/deleteApplication/8 started
+[2025-08-06 10:39:39 INF] ✅ HTTP DELETE /api/application/deleteApplication/8 200 finished with 11 in {Elapsed} ms
+[2025-08-06 10:39:39 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:39:39 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 2 in {Elapsed} ms
+[2025-08-06 10:39:40 INF] ➡️ HTTP DELETE /api/application/deleteApplication/13 started
+[2025-08-06 10:39:40 INF] ✅ HTTP DELETE /api/application/deleteApplication/13 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:39:40 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 10:39:40 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 2 in {Elapsed} ms
+[2025-08-06 10:39:41 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 10:39:41 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms
+[2025-08-06 10:39:41 INF] ➡️ HTTP GET /api/job/getById/2 started
+[2025-08-06 10:39:41 INF] ✅ HTTP GET /api/job/getById/2 200 finished with 4 in {Elapsed} ms
+[2025-08-06 11:01:22 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 11:01:22 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 10 in {Elapsed} ms
+[2025-08-06 11:01:27 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 11:01:27 INF] ✅ HTTP GET /api/job/getAll 200 finished with 7 in {Elapsed} ms
+[2025-08-06 11:01:28 INF] ➡️ HTTP GET /api/application/myApplications started
+[2025-08-06 11:01:28 INF] ✅ HTTP GET /api/application/myApplications 200 finished with 3 in {Elapsed} ms
+[2025-08-06 11:01:30 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 11:01:30 INF] ✅ HTTP GET /api/job/getAll 200 finished with 4 in {Elapsed} ms
+[2025-08-06 11:01:43 INF] ➡️ HTTP GET /api/job/getById/21 started
+[2025-08-06 11:01:43 INF] ✅ HTTP GET /api/job/getById/21 200 finished with 3 in {Elapsed} ms
+[2025-08-06 11:01:56 INF] ➡️ HTTP GET /api/job/getAll started
+[2025-08-06 11:01:56 INF] ✅ HTTP GET /api/job/getAll 200 finished with 5 in {Elapsed} ms

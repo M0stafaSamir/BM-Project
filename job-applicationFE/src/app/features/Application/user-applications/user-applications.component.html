@@ -1,0 +1,27 @@
+<main
+  id="userApplications"
+  class="min-vh-100 bg-dark d-flex justify-content-center align-items-center"
+>
+  <div class="container">
+    <div *ngIf="userApplications.length > 0" class="text-center text-white">
+      <h1 class="text-white text-center mb-4">You Applied for :</h1>
+      <div class="row">
+        <div *ngIf="isLoading" class="d-flex justify-content-center">
+          <app-loader></app-loader>
+        </div>
+        <div class="col-md-4" *ngFor="let app of userApplications">
+          <app-application-card
+            [application]="app"
+            [deleteApp]="deleteApplication.bind(this)"
+          ></app-application-card>
+        </div>
+      </div>
+    </div>
+    <div *ngIf="userApplications.length == 0">
+      <h1 class="text-white text-center mb-4">No Applications Found</h1>
+      <p class="text-center text-white-50">
+        You haven't applied for any jobs yet.
+      </p>
+    </div>
+  </div>
+</main>

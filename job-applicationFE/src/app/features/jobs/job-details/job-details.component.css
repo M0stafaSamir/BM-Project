@@ -1,0 +1,10 @@
+.formBg {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 100px;
+}
